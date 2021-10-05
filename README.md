@@ -1,4 +1,10 @@
-# todo-inject
+# task-provide
+
+Vue 3 Todo App using provide - inject
+
+Make a reactive app without vuex
+
+
 
 ## Project setup
 ```
@@ -15,5 +21,4 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
